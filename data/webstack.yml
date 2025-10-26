@@ -1,29 +1,261 @@
 ---
 
 - taxonomy: 常用推荐
-  icon: far fa-star
-  links: 
-    - title: 语雀
-      logo: 语雀.webp
-      url: https://www.yuque.com/
-      description: 专业的云端知识库。
-    - title: QQ 邮箱
-      logo: qq邮箱.png
-      url: http://mail.qq.com/
-      description: 腾讯 QQ 邮箱。
-    - title: 开源中国
-      logo: 开源中国.jpg
-      url: https://www.oschina.net/
-      description: 中文开源技术交流社区。
-    - title: GitHub
-      logo: github.png
-      url: https://github.com/
-      description: GitHub 开源社区。
-    - title: 知乎
-      logo: 知乎.png
-      url: https://www.zhihu.com/
-      description: 知乎社区。
+  icon: far fa-star  
+  list:
+  - term: 常用
+    links: 
+      - title: 语雀
+        logo: 语雀.webp
+        url: https://www.yuque.com/
+        description: 专业的云端知识库。
+      - title: GitHub
+        logo: github.png
+        url: https://github.com/
+        description: GitHub 开源社区。
+      - title: "中国科学技术大学测速网站"
+        logo: "test.ustc.edu.cn.png"
+        url: "https://test.ustc.edu.cn/"
+        description: "中国科学技术大学测速网站"
+      - title: "金山词霸"
+        logo: "www.iciba.com.png"
+        url: "https://www.iciba.com/"
+        description: ""
+      - title: "阿里千问AI"
+        logo: "chat.qwen.ai.png"
+        url: "https://chat.qwen.ai/?model=Qwen3-30B-A3B-2507"
+        description: ""
+      - title: "秘塔AI"
+        logo: "metaso.cn.png"
+        url: "https://metaso.cn/"
+        description: ""
+      - title: "豆包"
+        logo: "www.doubao.com.png"
+        url: "https://www.doubao.com/chat/"
+        description: ""
+      - title: "DeepSeek"
+        logo: "chat.deepseek.com.png"
+        url: "https://chat.deepseek.com/"
+        description: ""
+      - title: "我的公网IP"
+        logo: "www.lddgo.net.png"
+        url: "https://www.lddgo.net/network/getmyip"
+        description: "我的公网IP查询"
+      - title: "测速网"
+        logo: "www.speedtest.cn.png"
+        url: "https://www.speedtest.cn/"
+        description: ""
+      - title: "爱莫讯云-控制台"
+        logo: "th.png"
+        url: "https://amxiot.amsamotion.com/login?lang=zh_CN"
+        description: ""
+      - title: "有人云-控制台"
+        logo: "cloud.usr.cn.png"
+        url: "https://mp.usr.cn/#/cloud/homePage/ViewHomePage"
+        description: ""
+      - title: "系统下载-又要重装"
+        logo: "www.yyczxt.com.png"
+        url: "https://www.yyczxt.com/"
+        description: ""
+      - title: "果核剥壳 – 互联网的净土"
+        logo: "www.ghxi.com.png"
+        url: "https://www.ghxi.com/?utm_source=wetab"
+        description: ""
+      - title: "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili"
+        logo: "www.bilibili.com.png"
+        url: "https://www.bilibili.com/"
+        description: ""
+      - title: "阿里云盘"
+        logo: "www.aliyundrive.com.png"
+        url: "https://www.aliyundrive.com/drive"
+        description: ""
+      - title: "Vget"
+        logo: "vget.xyz.png"
+        url: "https://vget.xyz/"
+        description: "最好的视频下载器"
+      - title: "飞鸟云"
+        logo: "th-1.png"
+        url: "https://feiniaoyun.top/#/dashboard"
+        description: "官方地址"
+      - title: "飞鸟云国内"
+        logo: "th-1.png"
+        url: "https://feiniaoyun09.life"
+        description: "国内访问"
+      - title: "GitHub 镜像站—BGGitHub"
+        logo: "github.png"
+        url: "https://bgithub.xyz/pgw2025"
+        description: ""
+      - title: "GitHub 镜像站—KKGitHub"
+        logo: "github.png"
+        url: "https://kkgithub.com/pgw2025"
+        description: "GitHub镜像站"
+      - title: "小火箭配置"
+        logo: "xiaohuojian.uk.png"
+        url: "https://whatshub.top/shadowrocket"
+        description: "小火箭配置"
+      - title: "Cpolar"
+        logo: "www.cpolar.com.png"
+        url: "https://www.cpolar.com"
+        description: ""
+      - title: "CodeGeeX"
+        logo: "codegeex.cn.png"
+        url: "https://codegeex.cn/"
+        description: "CodeGeeX智能编程助手"
+      - title: "豆包"
+        logo: "www.doubao.com.png"
+        url: "https://www.doubao.com/?tagId=1"
+        description: ""
+      - title: "免费chatgpt站点"
+        logo: "github.com.png"
+        url: "https://github.com/xx025/carrot"
+        description: ""
+  - term: 自己搭建
+    links: 
+      - title: "Gitea-代码托管平台"
+        logo: "gitea.com.png"
+        url: "http://101.200.235.216:3000/"
+        description: "自己搭建的代码托管平台"
+      - title: "阿里云服务器后台面板"
+        logo: "1panel.cn.png"
+        url: "http://101.200.235.216:25852/admin"
+        description: ""
+      - title: "Frps 仪表盘"
+        logo: "1panel.cn.png"
+        url: "http://101.200.235.216:7500/static/#/"
+        description: "管理Frp链接的后台"
+      - title: "备忘录-Memos"
+        logo: "memos.top.png"
+        url: "http://101.200.235.216:2127/home"
+        description: "备忘录-Memos"
+      - title: "资料分享"
+        logo: "FBrowser.png"
+        url: "http://101.200.235.216:2121/share/bxM0bhNO"
+        description: "资料分享"
+      - title: "思源笔记"
+        logo: "siyuannote.com.png"
+        url: "http://101.200.235.216:2124/"
+        description: "思源笔记"
+      - title: "文件快递柜"
+        logo: "www.filecodebox.cn.png"
+        url: "http://101.200.235.216:2123/#/"
+        description: "文件快递柜"
+      - title: "网页文件浏览器- File Browser"
+        logo: "FBrowser.png"
+        url: "http://101.200.235.216:2121/login?redirect=/files/"
+        description: "网页文件浏览器-FileBrowser"
+      - title: "Halo博客"
+        logo: "Halo.png"
+        url: "http://101.200.235.216:2120/"
+        description: "Halo博客"
+  - term: 可视化大屏
+    links: 
+      - title: "晋鑫日产能可视化大屏"
+        logo: "dataease.io.png"
+        url: "http://192.168.0.170:8100/#/de-link/Wj9Frclj"
+        description: ""
+      - title: "晋鑫电量可视化大屏"
+        logo: "dataease.io.png"
+        url: "http://192.168.0.170:8100/#/de-link/xKBzhkeD"
+        description: ""
+      - title: "Metabase数据库仪表盘-公网"
+        logo: "www.metabase.com.png"
+        url: "http://101.200.235.216:6003/"
+        description: ""
+      - title: "服务器管理面板-公网"
+        logo: "favicon_1723454012614.png"
+        url: "http://101.200.235.216:6002/jinxin"
+        description: "服务器管理面板-公网"
+      - title: "Metabase-数据库仪表盘"
+        logo: "www.metabase.com.png"
+        url: "http://192.168.0.170:3000"
+        description: ""
+      - title: "服务器监控面板"
+        logo: "1panel.cn.png"
+        url: "http://192.168.0.170:12345/jinxin"
+        description: "Centos服务器监控面板"
+      - title: "产能数据大屏"
+        logo: "1panel.cn.png"
+        url: "http://192.168.0.170:8100/#/de-link/clmy0ixV"
+        description: "产能数据大屏"
+      - title: "晋鑫能耗大屏"
+        logo: "dataease.io.png"
+        url: "http://192.168.0.170:8100/#/de-link/VrrytjJb"
+        description: "晋鑫能耗大屏"
+      - title: "(MODBUS RTU通讯)校验码在线计算器"
+        logo: "www.23bei.com.png"
+        url: "https://www.23bei.com/tool/59.html"
+        description: ""
 
+      
+      
+
+- taxonomy: 软件开发
+  icon: far fa-star  
+  list:
+  - term: .NET开发
+    links:
+      - title: ".NET 基础知识文档"
+        logo: "learn.microsoft.com.png"
+        url: "https://learn.microsoft.com/zh-cn/dotnet/fundamentals/"
+        description: ""
+      - title: "十月寒流的博客"
+        logo: "blog.coldwind.top.png"
+        url: "https://blog.coldwind.top/"
+        description: "C#WPF开发大神"
+      - title: "HandyControl"
+        logo: "handyorg.github.io.png"
+        url: "https://handyorg.github.io/handycontrol/"
+        description: ""
+      - title: "WPF官方文档"
+        logo: "learn.microsoft.com.png"
+        url: "https://learn.microsoft.com/zh-cn/dotnet/desktop/wpf/"
+        description: ""
+      - title: "WPF教程-WPF中文网"
+        logo: "www.wpfsoft.com.png"
+        url: "https://www.wpfsoft.com/"
+        description: ""
+      - title: "AvaloniaUI文档-.Net开源UI框架"
+        logo: "docs.avaloniaui.net.png"
+        url: "https://docs.avaloniaui.net/zh-Hans/docs/welcome"
+        description: ""
+  - term: 开源代码
+    links:
+    - title: "IoTSharp-物联网基础平台"
+      logo: "gitee.com.png"
+      url: "https://gitee.com/IoTSharp/IoTSharp"
+      description: ""
+    - title: "IoTGateway-C#虚拟网关"
+      logo: "gitee.com.png"
+      url: "https://gitee.com/iioter/iotgateway"
+      description: ""
+    - title: "100+套大数据可视化模板"
+      logo: "gitee.com.png"
+      url: "https://gitee.com/iGaoWei/big-data-view/tree/master"
+      description: "100+套大数据可视化模板"
+
+- taxonomy: 工业控制
+  icon: fas fa-plug fa-lg
+  list:
+  - term: 电工
+    links:
+      - title: "线路压降计算器"
+        logo: "www.elicht.com.png"
+        url: "https://www.elicht.com/tool/xlyj/index.html"
+        description: "线路压降计算器"
+      - title: "电缆载流量计算"
+        logo: "www.vfe.ac.cn.png"
+        url: "https://www.vfe.ac.cn/zailiuliang/"
+        description: "电缆载流量在线计算工具"
+  - term: PLC
+    links:
+      - title: "PLC247"
+        logo: "plc247.com.png"
+        url: "https://plc247.com/"
+        description: ""
+      - title: "PLC破解网"
+        logo: "www.plcjiemi.com.png"
+        url: "http://www.plcjiemi.com/"
+        description: "PLC破解网"
 
 
 - taxonomy: 科研办公
@@ -32,30 +264,23 @@
    
     - term: 云服务器
       links:
-        - title: 阿里云
-          logo: 阿里云.jpg
-          url: https://www.aliyun.com/
-          description: 上云就上阿里云。
+        - title: "阿里云ESC服务器"
+          logo: "ecs.console.aliyun.com.png"
+          url: "https://ecs.console.aliyun.com/home"
+          description: "阿里云ESC服务器控制台"
+        - title: "华为云"
+          logo: "www.huaweicloud.com.png"
+          url: "https://console.huaweicloud.com/lcs/?agencyId=42f7ff2215f64bf18d2ee4085266e2d3&amp;region=cn-north-4&amp;locale=zh-cn#/lcs/manager/vmList"
+          description: "华为云服务器"
+        - title: "阿里云—轻量云服务器"
+          logo: "ecs.console.aliyun.com.png"
+          url: "https://swasnext.console.aliyun.com/servers/ap-southeast-1"
+          description: "轻量云服务器"
         - title: 腾讯云
           logo: 腾讯云.webp
           url: https://cloud.tencent.com/
           description: 产业智变，云启未来。
-        - title: 华为云
-          logo: 华为云.png
-          url: https://www.huaweicloud.com/
-          description: 提供云计算服务+智能，见未来-华为云。
-        - title: 云筏科技
-          logo: 云筏.png
-          url: https://www.cloudraft.cn/
-          description: 你的生信科研好选择。
-        - title: 极云普惠云电脑
-          logo: 极云普惠云电脑.png
-          url: https://www.ji-cloud.cn/
-          description: 云电脑-云游戏-手机变电脑软件。
-        - title: 青椒云
-          logo: 青椒云.jpg
-          url: https://www.qingjiaocloud.com/
-          description: 云桌面,一站式云电脑服务平台。
+ 
     - term: 办公学习
       links:
         - title: 有道词典
@@ -81,6 +306,10 @@
   list:
     - term: 影音视频
       links:
+        - title: "麻雀视频-专注好看的热播聚合在线网站"
+          logo: "mqtv.cc.png"
+          url: "https://mqtv.cc/"
+          description: ""
         - title: 腾讯视频
           logo: 腾讯视频.png
           url: http://v.qq.com/
@@ -106,13 +335,42 @@
           url: https://music.163.com/
           description: 163 网易云音乐。
 
-   
+- taxonomy: 应用程序
+  icon: far fa-folder-open fa-lg
+  list:
+    - term: Windows
+      links:
+      - title: "423Donw"
+        logo: "www.423down.com.png"
+        url: "https://www.423down.com/"
+        description: "最省心的软件下载网站——423down"
+      - title: "无痕哥"
+        logo: "www.wuhenge.com.png"
+        url: "https://www.wuhenge.com/"
+        description: ""
+      - title: "果壳剥壳"
+        logo: "www.ghxi.com.png"
+        url: "https://www.ghxi.com/"
+        description: ""
+
       
 - taxonomy: 素材资源
   icon: far fa-folder-open fa-lg
   list:
     - term: 网盘资源
       links:
+        - title: "小纸条"
+          logo: "ali.gitcafe.ink.png"
+          url: "https://ali.gitcafe.ink"
+          description: "阿里云盘资源搜索"
+        - title: "奇妙搜索"
+          logo: "www.magicalsearch.top.png"
+          url: "https://www.magicalsearch.top/main"
+          description: ""
+        - title: "我的小站"
+          logo: "pan666.net.png"
+          url: "https://pan666.net/"
+          description: "阿里云盘资源共享站"
         - title: 百度网盘
           logo: 百度网盘.jpg
           url: http://pan.baidu.com/
@@ -131,6 +389,46 @@
           description: 坚果云官网。
     - term: 图标素材
       links:
+        - title: "Material Design Icons"
+          logo: "pictogrammers.com.png"
+          url: "https://pictogrammers.com/library/mdi/"
+          description: ""
+        - title: "Fontawesome图标V5"
+          logo: "fontawesome.com.cn.png"
+          url: "https://fontawesome.com.cn/v5"
+          description: ""
+        - title: "Segoe Fluent 图标字体"
+          logo: "learn.microsoft.com.png"
+          url: "https://learn.microsoft.com/zh-cn/windows/apps/design/style/segoe-fluent-icons-font"
+          description: ""
+        - title: "Remix Icon"
+          logo: "remixicon.com.png"
+          url: "https://remixicon.com"
+          description: "免费开源的图标库"
+        - title: "Flaticon"
+          logo: "www.flaticon.com.png"
+          url: "https://www.flaticon.com/"
+          description: ""
+        - title: "Iconstore"
+          logo: "www.iconstore.co.png"
+          url: "https://www.iconstore.co/"
+          description: ""
+        - title: "Icons8"
+          logo: "icons8.com.png"
+          url: "https://icons8.com/"
+          description: ""
+        - title: "Iconfont"
+          logo: "www.iconfont.cn.png"
+          url: "https://www.iconfont.cn/"
+          description: ""
+        - title: "Iconduck"
+          logo: "iconduck.com.png"
+          url: "https://iconduck.com/"
+          description: "275，838个免费开源图标和插图"
+        - title: "Flaticons"
+          logo: "flaticons.net.png"
+          url: "https://flaticons.net/"
+          description: ""
         - title: Iconfinder
           logo: Iconfinder.png
           url: https://www.iconfinder.com
@@ -183,6 +481,28 @@
           logo: simplelineicons.png
           url: http://simplelineicons.com/
           description: Simple line Icons pack.
+    - term: 图片资源
+      links:
+      - title: "ManyPixels"
+        logo: "www.manypixels.co.png"
+        url: "https://www.manypixels.co/gallery"
+        description: ""
+      - title: "unDraw"
+        logo: "undraw.co.png"
+        url: "https://undraw.co/illustrations"
+        description: ""
+      - title: "StickPNG"
+        logo: "www.stickpng.com.png"
+        url: "https://www.stickpng.com/"
+        description: ""
+      - title: "PngDirs"
+        logo: "www.pngdirs.com.png"
+        url: "https://www.pngdirs.com/"
+        description: ""
+      - title: "Cleanpng"
+        logo: "www.cleanpng.com.png"
+        url: "https://www.cleanpng.com/"
+        description: "免费下载且背景透明的png素材"
     - term: 图标设计
       links:
         - title: Iconsfeed
@@ -380,6 +700,14 @@
           description: Design, prototype, and gather feedback all in one place with Figma.
     - term: 在线配色
       links:
+        - title: "在线配色器"
+          logo: "www.chinavid.com.png"
+          url: "https://www.chinavid.com/color.html"
+          description: ""
+        - title: "配色表——找到色彩搭配原理与技巧"
+          logo: "www.peisebiao.com.png"
+          url: "https://www.peisebiao.com/"
+          description: ""
         - title: khroma
           url: http://khroma.co/generator/
           logo: khroma.png
@@ -442,6 +770,31 @@
           description: Color Claim was created in 2012 by Tobias van Schneider with the goal to collect & combine unique colors for my future projects.
     - term: 在线工具
       links:
+        - title: "RemoveBG"
+          logo: "www.remove.bg.png"
+          url: "https://www.remove.bg/zh"
+          description: "图片背景消除"
+        - title: "在线PS"
+          logo: "www.logosc.cn.png"
+          url: "https://www.logosc.cn/online-ps"
+          description: ""
+        - title: "JPGHD"
+          logo: "jpghd.com.png"
+          url: "https://jpghd.com/zh"
+          description: ""
+        - title: "SpiderBox&nbsp;爬虫工具合集"
+          logo: "spiderbox.cn.png"
+          url: "https://spiderbox.cn/"
+          description: ""
+        
+        - title: "LoveIMG"
+          logo: "www.iloveimg.com.png"
+          url: "https://www.iloveimg.com/zh-cn"
+          description: ""
+        - title: "LovePDF"
+          logo: "www.ilovepdf.com.png"
+          url: "https://www.ilovepdf.com/zh-cn"
+          description: ""
         - title: tinypng
           url: https://tinypng.com/
           logo: tinypng.png
