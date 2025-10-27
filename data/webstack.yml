@@ -190,7 +190,7 @@
       
 
 - taxonomy: 软件开发
-  icon: far fa-star  
+  icon: fa fa-code  
   list:
   - term: .NET开发
     links:
@@ -336,7 +336,7 @@
           description: 163 网易云音乐。
 
 - taxonomy: 应用程序
-  icon: far fa-folder-open fa-lg
+  icon: fa fa-drafting-compass fa-lg
   list:
     - term: Windows
       links:
@@ -850,9 +850,17 @@
           url: http://mustsee.earth/
           logo: mustsee.png
           description: Discover the world's most beautiful places at every opened tab.
+- taxonomy: 文档集合
+  icon: far fa-file-word fa-lg
+  list: 
+    - term: 博客系统
+      links:
+        - title: HUGO中文文档
+          url: https://hugo.opendocs.io/
+          logo: hugo.opendocs.io.png
+          description: Hugo是世界上最快的网站构建框架之一，由opendocs.io提供完整的中文文档
 
-
-- taxonomy: 资讯学习
+- taxonomy: 资料整理
   icon: fas fa-pencil-alt fa-lg
   list: 
     - term: 资讯书籍
