@@ -5,6 +5,18 @@
   list:
   - term: 常用
     links:
+    - title: Google
+      logo: 'google.com.png         '
+      url: https://www.google.com/
+      description: ''
+    - title: YouTube
+      logo: 'youtube.com.png                                                                             '
+      url: https://www.youtube.com/
+      description: 在 YouTube 上尽情享受你喜欢的视频和音乐，上传原创内容，并与朋友、家人以及全世界分享一切。
+    - title: 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+      logo: 'www.bilibili.com.png                                                                        '
+      url: https://www.bilibili.com/
+      description: bilibili是国内知名的视频弹幕网站，这里有及时的动漫新番，活跃的ACG氛围，有创意的Up主。大家可以在这里找到许多欢乐。
     - title: 中国科学技术大学测速网站
       logo: 'test.ustc.edu.cn.png                                                                        '
       url: https://test.ustc.edu.cn/
@@ -13,22 +25,6 @@
       logo: 'www.iciba.com.png                                                                        '
       url: https://www.iciba.com/
       description: 金山词霸致力于为用户提供高效、精准的在线翻译服务，支持中、英、日、韩、德、法等177种语言在线翻译，涵盖即时免费的AI智能翻译、英语翻译、俄语翻译、日语翻译、韩语翻译、图片翻译、文档翻译、中英润色校对、续写扩写等功能。我们的爱词霸翻译器在线助力英文学习者高效翻译，提升写作能力。
-    - title: Qwen Chat
-      logo: 'chat.qwen.ai.png                                                                                                                                                '
-      url: https://chat.qwen.ai/?model=Qwen3-30B-A3B-2507
-      description: 千问AI
-    - title: 秘塔AI
-      logo: metaso.cn.png
-      url: https://metaso.cn/
-      description: ''
-    - title: 豆包
-      logo: www.doubao.com.png
-      url: https://www.doubao.com/chat/
-      description: ''
-    - title: DeepSeek
-      logo: chat.deepseek.com.png
-      url: https://chat.deepseek.com/
-      description: ''
     - title: 我的公网IP
       logo: www.lddgo.net.png
       url: https://www.lddgo.net/network/getmyip
@@ -37,56 +33,36 @@
       logo: www.speedtest.cn.png
       url: https://www.speedtest.cn/
       description: ''
-    - title: 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
-      logo: www.bilibili.com.png
-      url: https://www.bilibili.com/
-      description: ''
     - title: 阿里云盘
       logo: www.aliyundrive.com.png
       url: https://www.aliyundrive.com/drive
       description: ''
-    - title: Vget
-      logo: vget.xyz.png
-      url: https://vget.xyz/
-      description: 最好的视频下载器
-    - title: 飞鸟云
-      logo: th-1.png
-      url: https://feiniaoyun.top/#/dashboard
-      description: 官方地址
-    - title: GitHub 镜像站—BGGitHub
-      logo: github.png
-      url: https://bgithub.xyz/pgw2025
-      description: ''
-    - title: GitHub 镜像站—KKGitHub
-      logo: github.png
-      url: https://kkgithub.com/pgw2025
-      description: GitHub镜像站
-    - title: 小火箭配置
-      logo: xiaohuojian.uk.png
-      url: https://whatshub.top/shadowrocket
-      description: 小火箭配置
     - title: cpolar官网-安全的内网穿透工具 | 无需公网ip | 远程访问 | 搭建网站
       logo: 'www.cpolar.com.png                                                                        '
       url: https://www.cpolar.com
       description: cpolar是一款安全的内网穿透工具，适合微信公众号开发调试，Web开发，OpenAPI开发，webhook开发和调试工具。只需一行命令，就可以将内网站点发布至公网，方便给客户演示。高效调试微信公众号、小程序、对接支付宝网关等云端服务，提高您的编程效率。
-    - title: 免费chatgpt站点
-      logo: github.com.png
-      url: https://github.com/xx025/carrot
-      description: ''
-    - title: 阿里巴巴开源镜像站-OPSX镜像站-阿里云开发者社区
-      logo: developer.aliyun.com.png
-      url: https://developer.aliyun.com/mirror/?spm=a2c6h.25603864.0.0.3bbf679eal1L8p
-      description: 阿里巴巴开源镜像站，免费提供Linux镜像下载服务，拥有Ubuntu、CentOS、Deepin、MongoDB、Apache、Maven、Composer等多种开源软件镜像源，此外还提供域名解析DNS、网络授时NTP等服务，致力于为互联网用户提供全面，高效和稳定的基础服务。
+    - title: Netlify-免费静态网站托管
+      logo: 'app.netlify.com.png           '
+      url: https://app.netlify.com/
+      description: 以破纪录的速度，开始打造卓越的网页体验。
   - term: Tailscale 局域网
     links:
+    - title: 我的博客
+      logo: 'hugo.opendocs.io.png                                                                                                                                          '
+      url: http://100.88.88.1:6699/zh-cn/
+      description: Hugo theme - LoveIt
+    - title: WebStack 管理系统
+      logo: 'hugo.opendocs.io.png                                                                        '
+      url: http://100.88.88.1:6688
+      description: 自己开发的
+    - title: Nextcloud
+      logo: 'nextcloud.com.png                                                                 '
+      url: https://100.88.88.6:40069/
+      description: 自己搭建的网盘
     - title: 新 VM 虚拟机服务器 1Panle
       logo: 1panel.cn.png
       url: http://100.88.88.6:37397/admin
       description: Rocky 10
-    - title: WebStack 管理系统
-      logo: hugo.opendocs.io.png
-      url: http://100.88.88.1:55555
-      description: 自己开发的
     - title: 'Gitea: 自建仓库'
       logo: ' gitea.com.png                                                                      '
       url: http://100.88.88.6:3000/
@@ -95,10 +71,28 @@
       logo: login.tailscale.com.png
       url: https://login.tailscale.com/admin/machines
       description: ''
-    - title: Nextcloud
-      logo: 'nextcloud.com.png                                                                 '
-      url: https://100.88.88.6:40069/
-      description: 自己搭建的网盘
+  - term: AI网站
+    links:
+    - title: Qwen Chat
+      logo: chat.qwen.ai.png
+      url: https://chat.qwen.ai/?model=Qwen3-30B-A3B-2507
+      description: 千问AI
+    - title: 秘塔AI搜索
+      logo: metaso.cn.png
+      url: https://metaso.cn/
+      description: 秘塔AI搜索，没有广告，直达结果
+    - title: 豆包
+      logo: 'www.doubao.com.png                                                                '
+      url: https://www.doubao.com/chat/
+      description: 豆包是你的 AI 聊天智能对话问答助手，写作文案翻译编程全能工具。豆包为你答疑解惑，提供灵感，辅助创作，也可以和你畅聊任何你感兴趣的话题。
+    - title: 免费chatgpt站点
+      logo: 'github.com.png      '
+      url: https://github.com/xx025/carrot
+      description: ''
+    - title: ‎Google Gemini
+      logo: 'gemini.google.com.png                                                                                                                                                '
+      url: https://gemini.google.com/app?utm_source=app_launcher&utm_medium=owned&utm_campaign=base_all
+      description: 认识 Gemini，谷歌的 AI 助手。在写作、规划、头脑风暴等方面获得帮助，体验生成式 AI 的强大能力。
   - term: 自己搭建
     links:
     - title: Gitea-代码托管平台
@@ -171,6 +165,35 @@
       logo: www.23bei.com.png
       url: https://www.23bei.com/tool/59.html
       description: ''
+- taxonomy: 科学上网
+  icon: far fa-paper-plane me-2
+  list:
+  - term: Google
+    links:
+    - title: Google
+      logo: google.com.png
+      url: https://www.google.com/
+      description: ''
+    - title: YouTube
+      logo: 'youtube.com.png                                                                        '
+      url: https://www.youtube.com/
+      description: 在 YouTube 上尽情享受你喜欢的视频和音乐，上传原创内容，并与朋友、家人以及全世界分享一切。
+    - title: ‎Google Gemini
+      logo: 'gemini.google.com.png                                                                        '
+      url: https://gemini.google.com/app?utm_source=app_launcher&utm_medium=owned&utm_campaign=base_all
+      description: 认识 Gemini，谷歌的 AI 助手。在写作、规划、头脑风暴等方面获得帮助，体验生成式 AI 的强大能力。
+  - term: 机场
+    links:
+    - title: 飞鸟云
+      logo: 'feiniaoyun.xyz.png                                                                        '
+      url: https://feiniaoyun.xyz/#/dashboard
+      description: 主站地址
+  - term: 配置
+    links:
+    - title: 小火箭配置
+      logo: xiaohuojian.uk.png
+      url: https://whatshub.top/shadowrocket
+      description: 小火箭配置
 - taxonomy: 软件开发
   icon: fa fa-code
   list:
@@ -224,6 +247,14 @@
       logo: github.com.png
       url: https://github.com/
       description: Join the world's most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.
+    - title: GitHub 镜像站—BGGitHub
+      logo: 'github.png      '
+      url: https://bgithub.xyz/pgw2025
+      description: GitHub 镜像站—BGGitHub
+    - title: GitHub 镜像站—KKGitHub
+      logo: 'github.png         '
+      url: https://kkgithub.com/pgw2025
+      description: GitHub镜像站
   - term: 云平台部署
     links:
     - title: Netlify-免费静态网站托管
@@ -607,6 +638,10 @@
       logo: yyczxt.com.png
       url: https://www.yyczxt.com/
       description: 又要重装系统站，专业系统下载站，提供各种修改版，精简版，优化版Windows系统包，Windows10，Windows11，PE等系统版本下载
+    - title: 阿里巴巴开源镜像站-OPSX镜像站-阿里云开发者社区
+      logo: 'developer.aliyun.com.png                                                                        '
+      url: https://developer.aliyun.com/mirror/?spm=a2c6h.25603864.0.0.3bbf679eal1L8p
+      description: 阿里巴巴开源镜像站，免费提供Linux镜像下载服务，拥有Ubuntu、CentOS、Deepin、MongoDB、Apache、Maven、Composer等多种开源软件镜像源，此外还提供域名解析DNS、网络授时NTP等服务，致力于为互联网用户提供全面，高效和稳定的基础服务。
 - taxonomy: 开发设计
   icon: fas fa-tools fa-lg
   list:
@@ -766,10 +801,6 @@
       description: 免费在线抠图软件,图片快速换背景-抠白底图。
   - term: 谷歌插件
     links:
-    - title: Panda
-      logo: usepanda.png
-      url: http://usepanda.com/
-      description: A smart news reader built for productivity.
     - title: insight
       logo: insight.png
       url: http://insight.io/
